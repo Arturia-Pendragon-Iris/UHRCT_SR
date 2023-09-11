@@ -14,5 +14,5 @@ Here we share the ultra-high-resolution (UHRCT) CT scans (1024*1024) with 1.00 m
 ![image](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR/blob/main/figure/downstream_tasks.png)
 
 ## Acknowledgments
-
+This publication is based upon work supported by the King Abdullah University of Science and Technology (KAUST) Office of Research Administration (ORA) under Award No URF/1/4352-01-01, FCC/1/1976-44-01, FCC/1/1976-45-01, REI/1/5234-01-01, REI/1/5414-01-01.
 
