@@ -18,12 +18,6 @@ This publication is based upon work supported by the King Abdullah University of
 
 ## Cite
 If you use the dataset or refer to our paper, please use the citation as follows:
-@inproceedings{chu2023topology,
-  title={Topology-Preserving Computed Tomography Super-Resolution Based on Dual-Stream Diffusion Model},
-  author={Chu, Yuetan and Zhou, Longxi and Luo, Gongning and Qiu, Zhaowen and Gao, Xin},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={260--270},
-  year={2023},
-  organization={Springer}
-}
+
+Chu Y, Zhou L, Luo G, et al. Topology-Preserving Computed Tomography Super-Resolution Based on Dual-Stream Diffusion Model[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2023: 260-270.
 
