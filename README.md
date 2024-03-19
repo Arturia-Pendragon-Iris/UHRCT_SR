@@ -9,6 +9,9 @@ X-ray computed tomography (CT) is indispensable for modern medical diagnosis, bu
 ## Dataset
 Here we share the ultra-high-resolution (UHRCT) CT scans (1024*1024) with 1.00 mm inter-slice thickness. The link to the dataset is https://drive.google.com/drive/folders/1fKHu7mE5fKxknrjy6wibL5prTb8_9GV0?usp=sharing. The shared dataset consists of 95 URCT datasets in the format of .npz. You can use np.load(path_to_your_dataset)["arr_0"] to open them. Some of the CT scans are clipped to [-1000, 600].
 
+## Code
+We have uploaded the code for the implementation of the conv filter, the UNet architecture, and the loss function we use in our study. For the training processing, we follow the code released by [SR3](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement).
+
 ## Results
 ![image](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR/blob/main/figure/SR_results.png)
 ![image](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR/blob/main/figure/downstream_tasks.png)
