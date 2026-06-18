@@ -1,6 +1,7 @@
 # <p align="center">Topology-Preserving Computed Tomography Super-resolution Based on Dual-stream Diffusion Model</p>
 
 This repository is a lightweight, task-oriented reproduction of **Topology-Preserving Computed Tomography Super-Resolution Based on Dual-Stream Diffusion Model**.
+
 The full paper can be found at [link](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_25).
 
 ![image](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR/blob/main/figure/network%20architecture.png)
