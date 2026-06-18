@@ -3,6 +3,8 @@
 This repository is a lightweight, task-oriented reproduction of **Topology-Preserving Computed Tomography Super-Resolution Based on Dual-Stream Diffusion Model**.
 The full paper can be found at [link](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_25).
 
+![image](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR/blob/main/figure/network%20architecture.png)
+
 
 ## Method
 
@@ -153,6 +155,8 @@ sr3/metrics.py         PSNR and Frangi-SMSE evaluation
 ## Dataset
 
 The original UHRCT dataset link from the release is [here](https://drive.google.com/drive/folders/1EE0oLV-PuYxMdSuCcXPE9qw5xo8cw4gi?usp=sharing).
+![image](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR/blob/main/figure/SR_results.png)
+![image](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR/blob/main/figure/downstream_tasks.png)
 
 ## Citation
 
